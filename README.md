@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Heikki Lampen
+- 👀 I’m interested in lights and shadows
+- 🌱 I’m currently learning IoT
+- 💞️ I’m looking to collaborate on lighting effects in electronic dance music club environments
+- 📫 You can reach me via email at gmail.com
